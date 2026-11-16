@@ -2,11 +2,15 @@
 
 Landing page em HTML, CSS e JavaScript para a Audius Aparelhos Auditivos, baseada na estrutura visual do site [audiusaparelhosauditivos.com.br](https://audiusaparelhosauditivos.com.br/).
 
-## Prévia
+## Publicação
+
+[Abrir a landing page](https://ouvirbem.audiusaparelhosauditivos.com.br/)
+
+## Prévia para aprovação
 
 [Abrir a prévia para aprovação](https://aprovacoes.3ads.com.br/audius-landing/)
 
-O código principal fica em `atendimento3ads/audius-landing`. A prévia no domínio de aprovações é publicada por um fork em `atende3ads-ux/audius-landing`, sincronizado com este repositório.
+O código principal fica em `atendimento3ads/audius-landing`. A prévia no domínio de aprovações é publicada por um fork em `atende3ads-ux/audius-landing`. O fork acompanha a versão visual da página sem o arquivo `CNAME` usado pelo domínio de produção.
 
 ## Formulário
 
